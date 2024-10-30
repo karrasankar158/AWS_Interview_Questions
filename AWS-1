@@ -1,0 +1,37 @@
+Beginner-Level :
+
+1) What is AWS, and why is it widely used?2) Can you name some popular AWS services? (e.g., EC2, S3, RDS, Lambda)
+3)Explain the difference between Regions and Availability Zones.
+4) What is Amazon EC2, and what are its main use cases?
+5) What is Amazon S3, and what are its storage classes?
+6) What is IAM (Identity and Access Management), and why is it important?
+7) What is Amazon RDS, and how does it differ from DynamoDB?
+8)Explain the concept of autoscaling in AWS.
+9) What is an AMI (Amazon Machine Image)?
+10) What are Elastic Load Balancers (ELBs), and why are they used?
+
+Intermediate-Level :
+
+1) How does AWS Lambda work, and when would you use it?
+2) What is the difference between S3 and EBS?
+3) How would you secure an application in AWS?
+4) Explain Amazon CloudFront and its main use cases.
+5) What is VPC (Virtual Private Cloud), and why is it important?
+6) What is the difference between RDS and Redshift?
+7) How do you monitor an AWS environment? (e.g., CloudWatch, CloudTrail)
+8) What are security groups, and how do they differ from network ACLs?
+9) Explain the AWS Shared Responsibility Model.
+10) How does Amazon Route 53 work, and what are its main functions?
+
+Advanced-Level :
+
+1) What is AWS CloudFormation, and how does it help with infrastructure management?
+2) Explain how to optimize the cost of AWS services in a production environment.
+3) How does AWS handle disaster recovery?
+4) What is Amazon ECS, and how does it compare to EKS?
+5) What are Reserved Instances, and when would you use them?
+6) Explain the difference between vertical and horizontal scaling in AWS.
+7) How does AWS Direct Connect work?
+8) Describe a scenario where you would use Amazon SNS and SQS together.
+9) What is the difference between AWS CloudTrail and AWS Config?
+10) How would you set up a multi-region, highly available architecture in AWS?
